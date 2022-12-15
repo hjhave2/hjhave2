@@ -1,7 +1,23 @@
-### Hi there 👋
+### Hi there
+### I'm Haresh Jhaveri
+### a Software Developer who loves learning new things
 
+### Languages I'm Skilled In:
+```
+Java, Javascript, C/C++, C#, HTML, Python, Dart, Flutter
+```
+
+### Software I'm Skilled In:
+```
+Unity, Android Studio
+```
+
+### Languages I'm Currently Learning:
+```
+Go, Elixir, MySQL
+```
 <!--
-**hjhave2/hjhave2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hjhave/hjhave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
