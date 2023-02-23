@@ -12,9 +12,9 @@ Java, Javascript, C/C++, C#, HTML, Python, Dart, Flutter
 Unity, Android Studio
 ```
 
-### Languages I'm Currently Learning:
+### Languages/Frameworks I'm Currently Learning:
 ```
-Go, Elixir, MySQL
+TypeScript, Node.js, React.js, .NET
 ```
 <!--
 **hjhave/hjhave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
